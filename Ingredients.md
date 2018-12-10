@@ -1,4 +1,4 @@
-# Brewing Equipment
+# Brewing Ingredients
 
 * Up: [Home](README.md)
 
