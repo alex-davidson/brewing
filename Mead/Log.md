@@ -12,17 +12,9 @@
   * started 2018/12/02
 * English heather honey, orange and ginger (5L)
   * started 2018/12/02
-* Spiced mead (5L)
+* [Spiced mead (5L)](SpicedMead.md)
   * started 2018/12/03
-  * Recipe:
-    * 4x 454g Co-op clear honey
-    * 1 cinnamon stick, broken into four pieces
-    * ~2g cardamom pods (13 pods)
-    * 50g ginger, grated (weight before peeling)
-    * 1 lemon, cut into 8 pieces
-    * 3 large pinches of mixed peppercorns
-    * ~2.7 litres mineral water
-	* Wine yeast, nutrient
+  * Specific honey: 4x 454g Co-op clear
 
 ## Archive
 

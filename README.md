@@ -6,6 +6,14 @@ This is a repository of my brewing experiments and experiences. I do not guarant
 * [Equipment](Equipment.md)
 * [Process](Process.md)
 
+## Recipes
+
+All of these are based on the above process. The instructions are mostly just an aid to memory for me.
+
+* [My Standard Bulk Cider](Cider/BulkCider.md)
+* [Treacle Cider](Cider/TreacleCider.md)
+* [Spiced Mead](Mead/SpicedMead.md) (experimental)
+
 ## Logs
 
 * [Mead batches](Mead/Log.md)
