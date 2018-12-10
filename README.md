@@ -12,6 +12,8 @@ All of these are based on the above process. The instructions are mostly just an
 
 * [My Standard Bulk Cider](Cider/BulkCider.md)
 * [Treacle Cider](Cider/TreacleCider.md)
+
+* [Maple and Ginger Mead](Mead/MapleMead.md) (experimental)
 * [Spiced Mead](Mead/SpicedMead.md) (experimental)
 
 ## Logs

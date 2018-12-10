@@ -4,8 +4,9 @@
 
 ## Current Batches
 
-* Maple syrup and ginger (5L)
-  * started 2018/11/10, racked 2018/12/01
+* [Maple and ginger mead (5L)](MapleMead.md)
+  * started 2018/11/10, racked 2018/12/01, racked again 2018/12/10
+  * Specific syrup: 6x 275g Sainsbury's
 * Honey, lemon, ginger, apple juice (28L)
   * started 2018/11/23
 * Greek honey and lemon (5L)
