@@ -14,7 +14,7 @@
 * English heather honey, orange and ginger (5L)
   * started 2018/12/02
 * [Spiced mead (5L)](SpicedMead.md)
-  * started 2018/12/03
+  * started 2018/12/03, racked 2018/12/22
   * Specific honey: 4x 454g Co-op clear
 
 ## Archive

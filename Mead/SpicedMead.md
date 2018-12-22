@@ -19,3 +19,13 @@ _Experimental:_ 2018/12/03
 [Basic Process](../Process.md)
 
 1. Put all the stuff in a demijohn, stir it, airlock it.
+
+## Racking
+
+As with the Maple mead, the first racking was performed at three weeks and involved a sieve.
+
+This may have been too early. Airlock activity hadn't stopped (though had decreased a lot) but I wanted to get the stronger spices out before they took over the brew.
+
+The mead was sweet and fruity at this stage. There were no overpowering flavours.
+
+Next time: I'll leave it another couple of weeks, or use more spices.
