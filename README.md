@@ -45,3 +45,8 @@ All of these are based on the above process. The instructions are mostly just an
 * Blackstrap molasses can be easily found in health food shops and on Amazon.
   * The type I usually use is [this one](https://www.amazon.co.uk/Meridian-Organic-Molasses-350-Pack/dp/B0069RWQN2).
   * It's slightly bitter and has a distinctive burnt-sugary smell.
+
+## The Brewery
+
+![Experiments](Images/demijohns.jpg)
+![A big barrel of mead](Images/barrel.jpg)
