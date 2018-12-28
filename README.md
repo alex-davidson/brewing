@@ -13,8 +13,11 @@ All of these are based on the above process. The instructions are mostly just an
 * [My Standard Bulk Cider](Cider/BulkCider.md)
 * [Treacle Cider](Cider/TreacleCider.md)
 
+* [My Standard Bulk Mead](Mead/BulkMead.md)
+* [Lemon Mead](Mead/LemonMead.md)
 * [Maple and Ginger Mead](Mead/MapleMead.md) (experimental)
 * [Spiced Mead](Mead/SpicedMead.md) (experimental)
+* [English Heather honey, Orange and Ginger Mead](Mead/HeatherOrangeGingerMead.md) (experimental)
 
 ## Logs
 
