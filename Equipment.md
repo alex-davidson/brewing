@@ -36,6 +36,8 @@ Beware the screw-tops. If the contents are still fermenting, screw-top bottles w
 * A [piston-based bottle washer](https://www.amazon.co.uk/Bottle-Rinser-Cleaner-Cordial-Bottles/dp/B00B6GH5P0) reduces bottling time and aggravation considerably, even more so when paired with a [bottle tree](https://www.amazon.co.uk/Brewcraft-HOZQ8-1157-Bottle-Tree-45/dp/B00BWSSEDY).
 * A hydrometer may be useful if you want to measure the alcohol content of your brew. It is used to measure the density of the liquid, before and after fermentation, and the change in density can be used to determine the final alcohol content.
   * Somewhat difficult to use in a narrow-necked vessel like a demijohn, so I generally only use this for large batches (below).
+* Muslin bags, for keeping spices and fruits in their place (ie. not blocking the end of your siphon).
+  * I swear this is an absolute necessity for grated ginger.
 
 ## Scaling Up
 

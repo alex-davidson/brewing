@@ -119,4 +119,5 @@ The above is suitable for simple things like flat cider, or mead, and assumes ba
 
 * You may find it convenient to rack the brew multiple times. I typically rack it multiple times: once shortly after fermentation completes, and again just before bottling, with other rackings betweentimes if it seems necessary.
 * If adding fruit, you may want to leave it in the sanitiser solution for a little while to kill off anything on the skin.
+  * For small fruits (eg. raisins) or spices (especially grated ginger) you will probably want to put them in a sanitised muslin bag to stop them causing you headaches when trying to rack the whole mess.
 * For a sparkling beverage, you need to leave the yeast alive and give it a small amount of sugar before/during bottling. It will continue to ferment slightly in the bottle. I don't know much about this because I've never tried it (at least, not deliberately).
