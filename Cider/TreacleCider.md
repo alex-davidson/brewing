@@ -24,3 +24,9 @@
 10. Drink any remaining apple juice. You don't get enough vitamins.
 
 Fermentation usually completes within 2 weeks, but multiple rackings and finings will likely be necessary to get all the fluff out.
+
+## Racking
+
+This stuff is straightforward to rack, but don't expect it to clear any time soon.
+
+The haze gives it a very bitter flavour. It will be a few weeks before this starts to settle out.
