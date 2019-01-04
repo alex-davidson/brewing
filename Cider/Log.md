@@ -5,7 +5,7 @@
 ## Current Batches
 
 * [Treacle Cider (5L)](TreacleCider.md)
-  * started 2018/12/10, racked and stabilised 2018/12/29
+  * started 2018/12/10, racked and stabilised 2018/12/29, fined 2019/01/04
 
 ## Archive
 
