@@ -11,6 +11,8 @@
 * [Spiced mead (5L)](SpicedMead.md)
   * started 2018/12/03, racked 2018/12/22, stabilised 2019/01/04, fined 2019/01/05, racked again 2019/01/12
   * Specific honey: 4x 454g Co-op clear
+* [Chilli mead with mint (5L)](ChilliMead.md)
+  * started 2019/03/02
 
 ## Archive
 

@@ -18,6 +18,7 @@ All of these are based on the above process. The instructions are mostly just an
 * [Maple and Ginger Mead](Mead/MapleMead.md) (experimental)
 * [Spiced Mead](Mead/SpicedMead.md) (experimental)
 * [English Heather honey, Orange and Ginger Mead](Mead/HeatherOrangeGingerMead.md) (experimental)
+* [Chilli Mead](Mead/ChilliMead.md) (experimental)
 
 ## Logs
 
