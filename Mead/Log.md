@@ -4,8 +4,7 @@
 
 ## Current Batches
 
-* [Greek honey and lemon (5L)](LemonMead.md)
-  * started 2018/12/02, racked 2018/12/28, stabilised 2018/12/29, fined 2019/01/04, racked again 2019/01/12
+
 * [English heather honey, orange and ginger (5L)](HeatherOrangeGingerMead.md)
   * started 2018/12/02, racked 2018/12/28, stabilised 2018/12/29, racked and fined 2019/01/04, racked again 2019/01/12
 * [Spiced mead (5L)](SpicedMead.md)
@@ -18,6 +17,9 @@
 
 ### 2018
 
+* [Greek honey and lemon (5L)](LemonMead.md)
+  * started 2018/12/02, racked 2018/12/28, stabilised 2018/12/29, fined 2019/01/04, racked again 2019/01/12, bottled 2019/03/09 (~6 bottles)
+  
 * [Maple and ginger mead (5L)](MapleMead.md)
   * started 2018/11/10, racked 2018/12/01, racked again 2018/12/10, stabilised 2018/12/29, fined 2019/01/05, racked again 2019/01/12, bottled 2019/01/26 (5 bottles)
   * Specific syrup: 6x 275g Sainsbury's
