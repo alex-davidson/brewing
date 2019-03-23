@@ -2,20 +2,21 @@
 
 ## Ingredients
 
-* ~10kg honey
+* 7 to 10kg honey (depending on type; see below)
 * two lemons, each cut into eight segments
 * 12 litres apple juice
 * ~12 litres mineral water
 * Wine yeast
 * Yeast nutrient
 
-I'm currently trying it with about 25g of grated ginger too.
+You can add grated ginger too, but might need rather a lot. 25g was not detectable in the finished brew.
 
 ## Preparation
 
 [Basic Process](../Process.md)
 
 1. Put all the stuff in a large fermenter, stir it, airlock it.
+1. Top up with remaining water once the yeast froth dies down, or after racking.
 
 ## Notes
 
@@ -24,6 +25,8 @@ I first made this with ~30 jars of Sainsburys Basics honey. That had an original
 I'm writing this page having tried it again with 3x 3.3kg tubs of Payne's blossom honey instead. The OG was at the very limit of the hydrometer's scale: about 1.150. The final gravity was 1.055, putting it in the region of 13% ABV.
 
 Next time I'll stick to just two tubs...
+
+Update 2019/03/23: Two tubs yielded an OG of 1.110, which is about right.
 
 ## Racking
 

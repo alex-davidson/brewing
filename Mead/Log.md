@@ -12,6 +12,9 @@
   * Specific honey: 4x 454g Co-op clear
 * [Chilli mead with mint (5L)](ChilliMead.md)
   * started 2019/03/02
+  
+* [Honey, lemon, apple juice (28L)](BulkMead.md)
+  * started 2019/03/23
 
 ## Archive
 
