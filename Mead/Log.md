@@ -14,7 +14,7 @@
   * started 2019/03/02, racked 2019/04/19
   
 * [Honey, lemon, apple juice (28L)](BulkMead.md)
-  * started 2019/03/23
+  * started 2019/03/23, racked 2019/04/27, racked stabilised and fined 2019/06/01
 
 ## Archive
 
