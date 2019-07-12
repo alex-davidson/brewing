@@ -13,10 +13,13 @@
 * [Chilli mead with mint (5L)](ChilliMead.md)
   * started 2019/03/02, racked 2019/04/19, refilled airlock 2019/07/01
   
-* [Honey, lemon, apple juice (28L)](BulkMead.md)
-  * started 2019/03/23, racked 2019/04/27, racked stabilised and fined 2019/06/01
 
 ## Archive
+
+### 2019
+
+* [Honey, lemon, apple juice (28L)](BulkMead.md)
+  * started 2019/03/23, racked 2019/04/27, racked stabilised and fined 2019/06/01, bottled 2019/07/12 (33 bottles)
 
 ### 2018
 

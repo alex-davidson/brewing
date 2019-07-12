@@ -27,6 +27,7 @@ I'm writing this page having tried it again with 3x 3.3kg tubs of Payne's blosso
 Next time I'll stick to just two tubs...
 
 Update 2019/03/23: Two tubs yielded an OG of 1.110, which is about right.
+Update 2019/07/12: FG was about 1.040, or ~10% ABV. The flavour is good, still sweet but noticeably less sweet than previous batches.
 
 ## Racking
 
