@@ -26,3 +26,7 @@ The first racking was easy enough, as the orange and ginger had formed a thick m
 The brew was fizzy, quite fiery, and had an extremely strong heather honey flavour. Fermentation still underway. It will also need topping up with mineral water.
 
 Getting the orange slices out of the demijohn involved a fork and ten minutes of swearing.
+
+By the time of the fourth racking, nearly ten months after initial fermentation began, the orange flavour is still undetectable and the ginger has faded into unrecognisability. The remaining solids seem to have all dropped out now, taking the sharper flavours with them. The brew has mellowed considerably in the past nine months and is drinkable, though a little insipid: the flavour of the honey is not nearly as strong as the smell.
+
+I'll give it another month, then consider adding a bit of brown sugar to it.

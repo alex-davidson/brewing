@@ -6,12 +6,12 @@
 
 
 * [English heather honey, orange and ginger (5L)](HeatherOrangeGingerMead.md)
-  * started 2018/12/02, racked 2018/12/28, stabilised 2018/12/29, racked and fined 2019/01/04, racked again 2019/01/12, refilled airlock 2019/07/01
+  * started 2018/12/02, racked 2018/12/28, stabilised 2018/12/29, racked and fined 2019/01/04, racked again 2019/01/12, refilled airlock 2019/07/01, racked again 2019/10/15
 * [Spiced mead (5L)](SpicedMead.md)
   * started 2018/12/03, racked 2018/12/22, stabilised 2019/01/04, fined 2019/01/05, racked again 2019/01/12
   * Specific honey: 4x 454g Co-op clear
 * [Acacia mead (5L)](SimpleMead.md) - Hungarian Acacia honey
-  * started 2019/09/08, topped up 2019/09/15
+  * started 2019/09/08, topped up 2019/09/15, racked and stabilised 2019/10/15
 * TOP SECRET
   * started 2019/09/08, topped up 2019/09/15
 

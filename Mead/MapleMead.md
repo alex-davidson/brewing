@@ -29,3 +29,9 @@ The second racking was performed about a week and a half after that, when the ai
 At four and a half weeks, the syrup can be tasted and the ginger has subsided. It is very slightly sweet, but mostly fizzy.
 
 After the second racking, potassium sorbate was added.
+
+Bottled a couple of weeks after the third racking, once it had definitely cleared. It was in no fit state to drink at the time.
+
+## Result
+
+Eight or nine months later it has mellowed a lot and is quite enjoyable. Could be improved by using ~2kg syrup to strengthen the flavour, and perhaps 75g of ginger too.
