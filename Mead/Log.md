@@ -4,9 +4,8 @@
 
 ## Current Batches
 
-* [Chocolate mead (5L)](https://www.washingtonwinemaker.com/blog/2008/03/25/lord-rhys-chocolate-mead-recipe/)
-  * started 2019/09/08, topped up 2019/09/15
-  * 100g Cadbury's Bournville cocoa powder.
+* [Chocolate mead (5L)](ChocolateMead.md)
+  * started 2019/09/08, topped up 2019/09/15, racked and stabilised 2020/09/12
 
 
 ## Archive
