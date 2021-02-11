@@ -7,6 +7,10 @@
 * [Chocolate mead (5L)](ChocolateMead.md)
   * started 2019/09/08, topped up 2019/09/15, racked and stabilised 2020/09/12, racked again 2021/01/17
 
+* [Chocolate mead (28L)](ChocolateMead.md)
+  * ~7.5kg Payne's blossom honey
+  * 450g cocoa powder
+  * started 2021/01/30
 
 ## Archive
 
