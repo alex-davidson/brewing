@@ -5,7 +5,7 @@
 ## Current Batches
 
 * [Chocolate mead (5L)](ChocolateMead.md)
-  * started 2019/09/08, topped up 2019/09/15, racked and stabilised 2020/09/12, racked again 2021/01/17
+  * started 2019/09/08, topped up 2019/09/15, racked and stabilised 2020/09/12, racked again 2021/01/17, racked again 2021/09/04
 
 * [Chocolate mead (28L)](ChocolateMead.md)
   * ~7.5kg Payne's blossom honey

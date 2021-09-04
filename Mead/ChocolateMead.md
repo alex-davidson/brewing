@@ -24,3 +24,5 @@ I recommend mixing up a 'thick hot chocolate' before trying to get cocoa powder 
 The first racking was performed after a year, when it had been sitting on the lees for a LONG LONG TIME. This is according to the recipe.
 
 As expected, it tasted absolutely vile at this stage. Definite chocolate aroma though.
+
+One year after first racking, it still tastes somewhat sour. Some solids have precipitated on the bottom of the demijohn. Liquid is chocolate brown and almost opaque.
