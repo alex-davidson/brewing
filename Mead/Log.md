@@ -10,7 +10,7 @@
 * [Chocolate mead (28L)](ChocolateMead.md)
   * ~7.5kg Payne's blossom honey
   * 450g cocoa powder
-  * started 2021/01/30
+  * started 2021/01/30, racked and stabilised 2022/04/02
 
 ## Archive
 
