@@ -26,3 +26,7 @@ The first racking was performed after a year, when it had been sitting on the le
 As expected, it tasted absolutely vile at this stage. Definite chocolate aroma though.
 
 One year after first racking, it still tastes somewhat sour. Some solids have precipitated on the bottom of the demijohn. Liquid is chocolate brown and almost opaque.
+
+One year and nine months after first racking, it's a bit nasty. I think the small batch might've gone bad. Added bentonite to try to remove some of the solids, to see if that helps.
+
+The large barrel seems to be clearing on its own, albeit slowly.
