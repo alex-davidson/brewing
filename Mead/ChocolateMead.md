@@ -30,3 +30,7 @@ One year after first racking, it still tastes somewhat sour. Some solids have pr
 One year and nine months after first racking, it's a bit nasty. I think the small batch might've gone bad. Added bentonite to try to remove some of the solids, to see if that helps.
 
 The large barrel seems to be clearing on its own, albeit slowly.
+
+Four months after fining, about a centimetre of sediment has collected at the bottom. The liquid is still not transparent, but definitely lighter and less murky. Racked and tasted: still slightly sour/bitter, but drinkable and clearly improving. Decided to mature it further in bottles.
+
+Note: the decision to mature in bottles was made after a spot of mould was found in the airlock. I'm not sure if the brew was contaminated, but if not then it'll be safer in an airtight bottle.
