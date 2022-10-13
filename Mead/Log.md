@@ -12,6 +12,11 @@
   * 450g cocoa powder
   * started 2021/01/30, racked and stabilised 2022/04/02, backsweetened ~1kg honey 2022/04/09, racked 2022/06/19
 
+* [Road to Ruin mead (2x 5L)](RoadToRuinMead.md)
+  * 1.3kg Payne's blossom honey (each)
+  * 2 tbsp R2R honey (2022) (each)
+  * started 2022/10/13
+
 ## Archive
 
 ### 2020
