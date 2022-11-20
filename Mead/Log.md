@@ -10,12 +10,12 @@
 * [Chocolate mead (28L)](ChocolateMead.md)
   * ~7.5kg Payne's blossom honey
   * 450g cocoa powder
-  * started 2021/01/30, racked and stabilised 2022/04/02, backsweetened ~1kg honey 2022/04/09, racked 2022/06/19
+  * started 2021/01/30, racked and stabilised 2022/04/02, backsweetened ~1kg honey 2022/04/09, racked 2022/06/19, fined 2022/11/05?, racked and topped up 2022/11/20
 
 * [Road to Ruin mead (2x 5L)](RoadToRuinMead.md)
   * 1.3kg Payne's blossom honey (each)
   * 2 tbsp R2R honey (2022) (each)
-  * started 2022/10/13
+  * started 2022/10/13, topped up 2022/11/20
 
 ## Archive
 

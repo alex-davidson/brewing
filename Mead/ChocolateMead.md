@@ -34,3 +34,5 @@ The large barrel seems to be clearing on its own, albeit slowly.
 Four months after fining, about a centimetre of sediment has collected at the bottom. The liquid is still not transparent, but definitely lighter and less murky. Racked and tasted: still slightly sour/bitter, but drinkable and clearly improving. Decided to mature it further in bottles.
 
 Note: the decision to mature in bottles was made after a spot of mould was found in the airlock. I'm not sure if the brew was contaminated, but if not then it'll be safer in an airtight bottle.
+
+Around eight months after first racking, the large barrel was backsweetened and fined with bentonite. When I racked it again about a month later it was not really drinkable yet but clearly improving much faster than the small batch. Fining has taken out a lot of the nastier flavours without affecting the chocolate, it seems.
