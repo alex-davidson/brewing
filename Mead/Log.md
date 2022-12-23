@@ -15,7 +15,7 @@
 * [Road to Ruin mead (2x 5L)](RoadToRuinMead.md)
   * 1.3kg Payne's blossom honey (each)
   * 2 tbsp R2R honey (2022) (each)
-  * started 2022/10/13, topped up 2022/11/20
+  * started 2022/10/13, topped up 2022/11/20, racked 2022/12/17
 
 ## Archive
 
