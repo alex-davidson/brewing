@@ -17,6 +17,10 @@
   * 2 tbsp R2R honey (2022) (each)
   * started 2022/10/13, topped up 2022/11/20, racked 2022/12/17
 
+* Orange blossom mead (5L)
+  * 5 jars Sainsburys orange blossom honey (~1.5kg)
+  * started 2023/01/02
+
 ## Archive
 
 ### 2020
