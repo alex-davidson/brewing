@@ -19,7 +19,7 @@
 
 * Orange blossom mead (5L)
   * 5 jars Sainsburys orange blossom honey (~1.5kg)
-  * started 2023/01/02
+  * started 2023/01/02, racked and stabilised 2023/02/12
 
 ## Archive
 
