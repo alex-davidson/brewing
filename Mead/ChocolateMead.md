@@ -36,3 +36,6 @@ Four months after fining, about a centimetre of sediment has collected at the bo
 Note: the decision to mature in bottles was made after a spot of mould was found in the airlock. I'm not sure if the brew was contaminated, but if not then it'll be safer in an airtight bottle.
 
 Around eight months after first racking, the large barrel was backsweetened and fined with bentonite. When I racked it again about a month later it was not really drinkable yet but clearly improving much faster than the small batch. Fining has taken out a lot of the nastier flavours without affecting the chocolate, it seems.
+
+Large barrel backsweetened again. More solids have precipitated out, probably due to winter temperatures in our kitchen. Still not quite ready to bottle; maybe another 6 months and some more sweetening?
+In future, large batches need to start with three tubs of honey rather than two.
