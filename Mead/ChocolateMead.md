@@ -39,3 +39,5 @@ Around eight months after first racking, the large barrel was backsweetened and 
 
 Large barrel backsweetened again. More solids have precipitated out, probably due to winter temperatures in our kitchen. Still not quite ready to bottle; maybe another 6 months and some more sweetening?
 In future, large batches need to start with three tubs of honey rather than two.
+
+2024/04/26: Siphoned four bottles off the large barrel for taste testing. The liquid is clear brown, with no visible sediment or cloudiness. Sweetening worked wonders: tastes pretty good to me. Will gather opinions tomorrow on whether it needs more honey.
