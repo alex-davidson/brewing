@@ -41,3 +41,5 @@ Large barrel backsweetened again. More solids have precipitated out, probably du
 In future, large batches need to start with three tubs of honey rather than two.
 
 2024/04/26: Siphoned four bottles off the large barrel for taste testing. The liquid is clear brown, with no visible sediment or cloudiness. Sweetening worked wonders: tastes pretty good to me. Will gather opinions tomorrow on whether it needs more honey.
+
+2024/04/28: Two bottles tasted, one gifted. Bottled the remainder. Total: 39 bottles.

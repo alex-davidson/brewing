@@ -4,14 +4,6 @@
 
 ## Current Batches
 
-* [Chocolate mead (5L)](ChocolateMead.md)
-  * started 2019/09/08, topped up 2019/09/15, racked and stabilised 2020/09/12, racked again 2021/01/17, racked again 2021/09/04, backsweetened ~200g honey 2022/04/09, racked and fined 2022/06/11, racked and bottled 2022/10/11, left to mature further.
-
-* [Chocolate mead (28L)](ChocolateMead.md)
-  * ~7.5kg Payne's blossom honey
-  * 450g cocoa powder
-  * started 2021/01/30, racked and stabilised 2022/04/02, backsweetened ~1kg honey 2022/04/09, racked 2022/06/19, fined 2022/11/05?, racked and topped up 2022/11/20, racked and backsweetened (~1.6kg Payne's blossom honey) 2024/01/21, siphoned off four bottles 2024/04/26
-
 * [Road to Ruin mead (2x 5L)](RoadToRuinMead.md)
   * 1.3kg Payne's blossom honey (each)
   * 2 tbsp R2R honey (2022) (each)
@@ -22,6 +14,17 @@
   * started 2023/01/02, racked and stabilised 2023/02/12
 
 ## Archive
+
+### 2024
+
+* [Chocolate mead (5L)](ChocolateMead.md)
+  * started 2019/09/08, topped up 2019/09/15, racked and stabilised 2020/09/12, racked again 2021/01/17, racked again 2021/09/04, backsweetened ~200g honey 2022/04/09, racked and fined 2022/06/11, racked and bottled 2022/10/11, left to mature further.
+  * 2024/04/28: Probably not good to drink. Still cloudy with lots of sediment.
+
+* [Chocolate mead (28L)](ChocolateMead.md)
+  * ~7.5kg Payne's blossom honey
+  * 450g cocoa powder
+  * started 2021/01/30, racked and stabilised 2022/04/02, backsweetened ~1kg honey 2022/04/09, racked 2022/06/19, fined 2022/11/05?, racked and topped up 2022/11/20, racked and backsweetened (~1.6kg Payne's blossom honey) 2024/01/21, siphoned off four bottles 2024/04/26, racked and bottled 2024/04/28 (35 additional bottles, 39 bottles total).
 
 ### 2020
 
