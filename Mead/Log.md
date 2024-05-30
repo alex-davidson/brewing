@@ -7,11 +7,7 @@
 * [Road to Ruin mead (2x 5L)](RoadToRuinMead.md)
   * 1.3kg Payne's blossom honey (each)
   * 2 tbsp R2R honey (2022) (each)
-  * started 2022/10/13, topped up 2022/11/20, racked 2022/12/17
-
-* Orange blossom mead (5L)
-  * 5 jars Sainsburys orange blossom honey (~1.5kg)
-  * started 2023/01/02, racked and stabilised 2023/02/12
+  * started 2022/10/13, topped up 2022/11/20, racked 2022/12/17, racked 2024/05/30
 
 ## Archive
 
@@ -25,6 +21,10 @@
   * ~7.5kg Payne's blossom honey
   * 450g cocoa powder
   * started 2021/01/30, racked and stabilised 2022/04/02, backsweetened ~1kg honey 2022/04/09, racked 2022/06/19, fined 2022/11/05?, racked and topped up 2022/11/20, racked and backsweetened (~1.6kg Payne's blossom honey) 2024/01/21, siphoned off four bottles 2024/04/26, racked and bottled 2024/04/28 (35 additional bottles, 39 bottles total).
+
+* Orange blossom mead (5L)
+  * 5 jars Sainsburys orange blossom honey (~1.5kg)
+  * started 2023/01/02, racked and stabilised 2023/02/12, racked and bottled 2024/05/30 (~6 bottles)
 
 ### 2020
 
